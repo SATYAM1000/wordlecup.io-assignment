@@ -12,7 +12,14 @@
 ![Screenshot 2024-02-15 211627](https://github.com/SATYAM1000/wordlecup.io-assignment/assets/104556262/cc321725-5ed0-4f91-a175-830149a8da83)
 
 ![Screenshot 2024-02-15 211636](https://github.com/SATYAM1000/wordlecup.io-assignment/assets/104556262/239d3fa7-e574-43e1-8881-6ae000acbe14)
-![Screenshot 2024-02-15 211821](https://github.com/SATYAM1000/wordlecup.io-assignment/assets/104556262/74a54d16-aa4b-4a2e-b545-adff75546cf2)
+![Screenshot 2024-02-15 211821](https://github.com/SATYAM1000/wordlecup.io-as
+
+https://github.com/SATYAM1000/wordlecup.io-assignment/assets/104556262/84911425-f1c1-4c98-964e-1fef8e2b3ff8
+
+signment/assets/104556262/74a54d16-aa4b-4a2e-b545-adff75546cf2)
+
+##video
+
 
 
 `Tech stack used:`
